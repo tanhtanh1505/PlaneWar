@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\C++\test\test.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++\test\test.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+D:\C++\test\test.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+  test.vcxproj -> D:\C++\test\Debug\test.exe
